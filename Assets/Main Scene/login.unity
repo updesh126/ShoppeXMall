@@ -575,6 +575,30 @@ PrefabInstance:
       propertyPath: m_Name
       value: Account
       objectReference: {fileID: 0}
+    - target: {fileID: 429045591987585309, guid: 7b290bf9136ca0f44a45209856cab492, type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 429045591987585309, guid: 7b290bf9136ca0f44a45209856cab492, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 71849e520eda3487a911e96eb80c7690, type: 3}
+    - target: {fileID: 429045591987585309, guid: 7b290bf9136ca0f44a45209856cab492, type: 3}
+      propertyPath: m_Color.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 429045591987585309, guid: 7b290bf9136ca0f44a45209856cab492, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 429045591987585309, guid: 7b290bf9136ca0f44a45209856cab492, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 429045591987585309, guid: 7b290bf9136ca0f44a45209856cab492, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 808699285453784934, guid: 7b290bf9136ca0f44a45209856cab492, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0

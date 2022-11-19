@@ -6,7 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Main Scene/Login.unity
+    path: Assets/Main Scene/wallet_scene.unity
+    guid: 8b3834b526b1d9f4687af110b68aeda9
+  - enabled: 1
+    path: Assets/Main Scene/login.unity
     guid: 9caa1a0c58a68ce469bec7af83afeb7d
   - enabled: 1
     path: Assets/Main Scene/Avatar.unity
