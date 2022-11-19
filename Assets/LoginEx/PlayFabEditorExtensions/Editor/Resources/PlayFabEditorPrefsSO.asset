@@ -15,7 +15,7 @@ MonoBehaviour:
   DevAccountEmail: updesh071@gmail.com
   DevAccountToken: peiwe9bahzc7cj63dw3i8rooksr4updch14pyh6knzi8wc56z9yikbudt1qti5pc5mcj7dpqio3dqrn7a393pa9nfghpf766m7sfgqmjg8d9irqdo959xggkcqrt8bg1kwozqkb4jgptpw6bkehkrkj6qf6eqcjugh7tu5jnpu4zip8m8tb4g3aa54errfwgo3159rsa
   SelectedStudio: My Game Studio
-  SdkPath: Assets/PlayFabSDK
+  SdkPath: Assets/LoginEx/PlayFabSDK
   EdExPath: 
   LocalCloudScriptPath: 
   PanelIsShown: 0
