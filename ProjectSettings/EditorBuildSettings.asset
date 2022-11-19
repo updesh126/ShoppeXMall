@@ -11,8 +11,14 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Main Scene/login.unity
     guid: 9caa1a0c58a68ce469bec7af83afeb7d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Main Scene/Avatar.unity
     guid: 4fd87a2ac09bd9f44aea81d07c16798e
+  - enabled: 0
+    path: Assets/Main Scene/Level2.unity
+    guid: 07b8533979e88a042965a5a29ad663a8
+  - enabled: 1
+    path: Assets/Main Scene/Level1.unity
+    guid: 31e6e3f02c970a34d8c57f01cd4e4520
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0c114f71fd745c046bb4a853a1d7bd9c, type: 2}
