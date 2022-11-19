@@ -57,7 +57,7 @@ public class UserAccountManager : MonoBehaviour
         {
             Debug.Log($"Successful Account Login: {username}");
             OnSignInSucess.Invoke();
-            SceneManager.LoadScene(sceneName: "Avatar");
+            SceneManager.LoadScene(sceneName: "Level1");
 
         },
         error =>
