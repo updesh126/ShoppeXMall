@@ -1774,7 +1774,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5626427218488691852, guid: f7fd21d81200e8e4da046f145b1f7f39, type: 3}
       propertyPath: cursorLocked
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6986033190473780345, guid: f7fd21d81200e8e4da046f145b1f7f39, type: 3}
       propertyPath: webView
